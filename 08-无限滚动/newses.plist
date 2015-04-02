@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>icon</key>
+		<string>01.png</string>
+		<key>title</key>
+		<string>1.天空之城</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>02.png</string>
+		<key>title</key>
+		<string>2.魔女宅急便</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>03.png</string>
+		<key>title</key>
+		<string>3.借东西的小人阿莉埃蒂</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>04.png</string>
+		<key>title</key>
+		<string>4.千与千寻</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>05.png</string>
+		<key>title</key>
+		<string>5.古城荊棘王</string>
+	</dict>
+    <dict>
+        <key>icon</key>
+        <string>06.png</string>
+        <key>title</key>
+        <string>6.侧耳倾听</string>
+    </dict>
+    <dict>
+        <key>icon</key>
+        <string>07.png</string>
+        <key>title</key>
+        <string>7.萤火虫之墓</string>
+    </dict>
+    <dict>
+        <key>icon</key>
+        <string>08.png</string>
+        <key>title</key>
+        <string>8.幽灵公主</string>
+    </dict>
+</array>
+</plist>
