@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9E078F4C-07B1-4CF7-984B-003913E2521D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>08-无限滚动</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2DA78D70277514EC808358F759A17DB435527850</key>
+		<string>https://github.com/ixixii/iOS_01_infiniteScroll_CollectionView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>08-无限滚动.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2DA78D70277514EC808358F759A17DB435527850</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ixixii/iOS_01_infiniteScroll_CollectionView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2DA78D70277514EC808358F759A17DB435527850</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2DA78D70277514EC808358F759A17DB435527850</string>
+			<key>IDESourceControlWCCName</key>
+			<string>01_%E6%97%A0%E9%99%90%E6%BB%9A%E5%8A%A8_CollectionView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
