@@ -11,5 +11,4 @@ XCode 6.0.1，模拟器：iPhone 4s(7.1)，真机：ios 6.1.3
 Collection view的item的高度要小于CollectionView的高度 要在storyboard中的Collection View Flow Layout设置 Cell Size
 
 #### 链接  
-1.[我的网站](http://www.sg31.com)<br />  
-2.[我的csdn博客](http://blog.csdn.net/pre_eminent)<br />  
+1.[我的csdn博客](http://blog.csdn.net/pre_eminent)<br />  
